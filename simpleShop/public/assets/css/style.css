@@ -1,0 +1,41 @@
+.title-row {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.overall-filter-row,
+.clients-filter-row {
+    margin: 10px;
+}
+
+.overall-filter-row .btn,
+.clients-filter-row .btn {
+    margin-top: -15px;
+    border-radius: 0px;
+}
+
+.clients-report-table th,
+.clients-report-table td {
+    width: 25%;
+}
+
+.btn-save {
+    margin-left: 10px;
+}
+
+#ordersTable th:first-child,
+#ordersTable th:nth-child(2) {
+    width: 10%;
+}
+
+#ordersTable th:nth-child(3) {
+    width: 20%;
+}
+
+#ordersTable th:nth-child(6) {
+    width: 20%;
+}
+
+#ordersTable th:nth-child(5) {
+    width: 25%;
+}
